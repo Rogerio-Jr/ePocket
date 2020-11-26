@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF5722</color>
+        <color name="colorPrimaryDark">#E1FF5722</color>
+    <color name="colorAccent">#ff706a</color>
+
+    <color name="colorPrimaryDespesas">#FF706a</color>
+    <color name="colorPrimaryDarkDespesas">#E66560</color>
+    <color name="colorAccentDespezas">#FF706A</color>
+
+
+    <color name="colorPrimaryEntrada">#00D39E</color>
+    <color name="colorPrimaryDarkEntrada">#00be8b</color>
+    <color name="colorAccentEntrada">#00d39e</color>
+
+
+    </resources>
